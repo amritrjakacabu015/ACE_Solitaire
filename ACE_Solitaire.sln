@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACE_Solitaire", "ACE_Solitaire.csproj", "{B12FC60D-FE21-16FD-B88E-FDCF51EADBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12FC60D-FE21-16FD-B88E-FDCF51EADBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12FC60D-FE21-16FD-B88E-FDCF51EADBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12FC60D-FE21-16FD-B88E-FDCF51EADBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12FC60D-FE21-16FD-B88E-FDCF51EADBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
